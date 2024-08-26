@@ -1,0 +1,52 @@
+
+
+.container{
+    margin-left: 30%;
+    width: 800px;
+    height: 350px;
+    text-align: center;
+    background-color: #fff !important;
+    border-radius: 10px;
+    
+    h1{
+        margin-top: 80px;
+    }
+}
+
+p{
+    margin-top: 50px;
+}
+
+.conf-btns{
+    margin-top: 100px;
+}
+
+.no{
+    width: 260px;
+    height: 70px;
+    background-color: #0C70F2;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 400;
+    margin-right: 50px;
+    cursor: pointer;
+
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
+
+.yes{
+    width: 260px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 400;
+    cursor: pointer;
+    a{
+        color: black;
+    }
+}
